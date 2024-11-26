@@ -1,0 +1,26 @@
+{
+  "brand": "Vue JS",
+  "product": "chaussette",
+  "premium": true,
+  "variants": [
+    {
+      "id": 2001,
+      "color": "green",
+      "image": "assets/images/socks_green.jpg",
+      "quantity": 50
+    },
+    {
+      "id": 2002,
+      "color": "blue",
+      "image": "assets/images/socks_blue.jpg",
+      "quantity": 0
+    }
+  ],
+  "details": [
+    "80% coton",
+    "20% polyester",
+    "Unisex"
+  ],
+  "sizes": [30, 36, 37, 39, 38, 40],
+  "reviews": []
+}
