@@ -1,5 +1,4 @@
 {
-  "variants": [
     {
       "id": 2001,
       "color": "green",
@@ -11,7 +10,7 @@
       "color": "blue",
       "image": "assets/images/socks_blue.jpg",
       "quantity": 0
-    }
-  ],
+    },
+  
 }
 
